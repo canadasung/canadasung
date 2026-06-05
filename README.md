@@ -11,7 +11,7 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 - Dashboarding, data storytelling, cross‑functional communication
 
 
-## What I work with
+## What I have worked with before and now
 
 **Languages**
 
@@ -43,9 +43,9 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 
 **Cloud Platforms**
 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apachehadoop&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 
 ## Get in touch
