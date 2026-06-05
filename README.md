@@ -51,6 +51,6 @@ More on my [portfolio site](https://canadasung.github.io).
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canadasung@gmail.com)
