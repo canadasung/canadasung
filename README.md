@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-I'm a data scientist and analyst based in Vancouver, BC 🇨🇦. I started my careers in retails and customer services. Later on I switched to marketing and PM but realized that there were something deeper going on. Then I pursued my joint major degree in business and computer science at Simon Fraser University (SFU), plus master of data science degree at University of British Columbia (UBC). I have discovered and enjoyed the data analytics career ever since then. 
+I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn’t linear. I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. That curiosity pushed me to study Business and Computer Science at SFU, then spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along. Data analytics and data science have been my focus and passion ever since.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a data scientist and analyst based in Vancouver, BC 🇨🇦. I started my c
 
 **Visualization**
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-red?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
