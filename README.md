@@ -1,4 +1,4 @@
-# Hi, I'm William 👋
+# Hi, I'm William
 
 I'm a data scientist and analyst based in Vancouver, BC. Fresh out of UBC's Master of Data Science program, I like building things that make data easier to understand -- whether that's a clean analysis, a well-optimized query, or a tool that actually works in production.
 
@@ -52,5 +52,74 @@ More on my [portfolio site](https://canadasung.github.io).
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io) (Under Construction)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canadasung@gmail.com)
+
+
+
+## William Chen | Data Scientist & Analyst
+
+MDS graduate from UBC. I build data pipelines, statistical models, and analytical tools with a focus on correctness, reproducibility, and production readiness. Currently open to data science and analyst roles in Vancouver or remote.
+
+---
+
+## Technical skills
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Data & ML**
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=r&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+
+**Infrastructure & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white)
+
+---
+
+## Projects
+
+### [Species name search](https://github.com/canadasung/species-search)
+Aggregates taxonomic data across 15+ biodiversity APIs (GBIF, Symbiota portals) using an async fan-out architecture in FastAPI. Redis caching reduces repeat query cost to near zero. Deployed on a self-hosted VPS with a Next.js frontend.
+
+- Stack: Python, FastAPI, httpx, asyncio, Redis, PostgreSQL, Next.js
+- Result: median response time reduced from ~8s sequential to ~1.2s
+
+### [SQL query optimization study](https://github.com/canadasung/sql-benchmarks)
+Systematic benchmark of CTE, window function, and aggregation patterns across PostgreSQL 16 and BigQuery on 10M-row synthetic datasets. Each pattern run 10 times with cache invalidation between trials.
+
+- Stack: SQL, Python (faker, psycopg2), BigQuery API
+- Key finding: CTEs in PostgreSQL are not optimization fences as of v12+
+
+---
+
+## Education
+
+**Master of Data Science** -- University of British Columbia, 2025
+Coursework: statistical inference, machine learning, data visualization, databases, cloud computing, collaborative software development.
+
+---
+
+## GitHub stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=canadasung&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canadasung&hide_border=true&theme=default" height="160" alt="Streak stats" />
+</p>
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
