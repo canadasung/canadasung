@@ -42,15 +42,6 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 
 ---
 
-## GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=canadasung&show_icons=true&hide_border=true&theme=default&hide_title=false&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canadasung&hide_border=true&theme=default" height="160" alt="Streak stats" />
-</p>
-
----
-
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
