@@ -1,8 +1,6 @@
 # Hi, I'm William
 
-I'm a data scientist and analyst based in Vancouver, BC. Fresh out of UBC's Master of Data Science program, I like building things that make data easier to understand -- whether that's a clean analysis, a well-optimized query, or a tool that actually works in production.
-
-I'm currently looking for data science and analyst roles. If something here catches your eye, feel free to reach out.
+I'm a data scientist and analyst based in Vancouver, BC 🇨🇦. I started my careers in retails and customer services. Later on I switched to marketing and PM but realized that there were something deeper going on. Then I pursued my joint major degree in business and computer science at Simon Fraser University (SFU), plus master of data science degree at University of British Columbia (UBC). I have discovered and enjoyed the data analytics career ever since then. 
 
 ---
 
