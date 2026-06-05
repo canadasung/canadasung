@@ -36,15 +36,12 @@ I'm a data scientist and analyst based in Vancouver, BC 🇨🇦. I started my c
 
 **Cloud Platforms**
 
-<<<<<<< Updated upstream
-=======
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apachehadoop&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
->>>>>>> Stashed changes
 ## GitHub stats
 
 <p align="left">
