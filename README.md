@@ -2,7 +2,14 @@
 
 I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn’t linear. I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. That curiosity pushed me to study Business and Computer Science at SFU, then spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along. Data analytics and data science have been my focus and passion ever since.
 
----
+## Analytics & methods
+
+- Statistical inference, predictive modeling, clustering, A/B testing
+- Cohort, funnel, retention, LTV, and behavioral analytics
+- Telemetry design, ELT pipelines, data modeling, automation
+- Monetization, live‑ops, and product performance analytics
+- Dashboarding, data storytelling, cross‑functional communication
+
 
 ## What I work with
 
@@ -40,7 +47,6 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apachehadoop&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
----
 
 ## Get in touch
 
