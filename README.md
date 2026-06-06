@@ -45,7 +45,7 @@ I’m a data analyst and scientist based in Vancouver, BC, but my path here wasn
 **Cloud Platforms**
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ## Get in touch
 
