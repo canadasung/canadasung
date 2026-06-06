@@ -1,6 +1,6 @@
 # Hi, I'm William
 
-I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn’t linear. I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. That curiosity pushed me to study Business and Computer Science at SFU, then spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along. Data analytics and data science have been my focus and passion ever since.
+I’m a data analyst and scientist based in Vancouver, BC, but my path here wasn’t linear. I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. That curiosity pushed me to study Business and Computer Science at SFU, then spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along. Data analytics and data science have been my focus and passion ever since.
 
 ## Analytics & methods
 
@@ -36,6 +36,7 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apachehadoop&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -43,10 +44,8 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 
 **Cloud Platforms**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=flat&logo=apachehadoop&logoColor=black)
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ## Get in touch
 
