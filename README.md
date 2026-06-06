@@ -51,5 +51,5 @@ I’m a data scientist and analyst based in Vancouver, BC, but my path here wasn
 ## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io) (Under Construction)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=quarto&logoColor=white)](https://canadasung.github.io/quarto-portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canadasung@gmail.com)
