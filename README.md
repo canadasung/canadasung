@@ -1,6 +1,6 @@
-# Greetings! I’m William ~
-
 <div align="center">
+
+# Greetings! I’m William ~
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=quarto&logoColor=white)](https://canadasung.github.io/quarto-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
@@ -15,6 +15,8 @@ I started out in retail and customer service, moved into marketing and product m
 That curiosity pushed me to study Business and Computer Science at SFU, then spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along. 
 
 Data analytics and data science have been my focus and passion ever since.
+
+---
 
 ## Analytics & methods
 
