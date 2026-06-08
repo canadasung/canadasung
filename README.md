@@ -22,12 +22,15 @@ The world of data science and AI is changing so fast that it sometimes feels cha
 
 ## Analytics & methods
 
+**Primary Focuses**
 - Statistical inference, predictive modeling, clustering, A/B testing
 - Cohort, funnel, retention, LTV, and behavioral analytics
-- Telemetry design, ELT pipelines, data modeling, automation
+- Telemetry design, ETL/ELT pipelines, data modeling, automation
 - Monetization, live‑ops, and product performance analytics
 - Dashboarding, data storytelling, cross‑functional communication
 
+**Basic understanding of**
+- CI/CD, Unit Tests, Packaging, Docker Container, AI Agents/Harness Engineering
 
 ## Tech Stack
 
