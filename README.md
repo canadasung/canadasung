@@ -14,9 +14,9 @@ I’m a data analyst and scientist based in Vancouver, BC, but my path here wasn
 
 I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. 
 
-That curiosity pushed me to study Business and Computer Science at SFU. After graduating, I spent six years uncovering insights in the gaming industry. Eventually, I returned to school for a Master of Data Science at UBC, solidifying the career I had been gravitating toward all along.
+That curiosity pushed me to study Business and Computer Science at SFU. After graduating, I spent six years uncovering insights in the gaming industry. Eventually, I returned to school for my Master of Data Science at UBC, solidifying the career I have been gravitating toward all along.
 
-The world of data science and AI is changing so fast that it sometimes feels challenging to keep up. Keep learning, take breaks when you have to — that's what I tell myself.
+The world of data science and AI is changing so fast that it sometimes feels challenging to keep up. Keep learning, take breaks when have to, that's what I tell myself.
 
 ---
 
