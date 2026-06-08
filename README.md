@@ -59,13 +59,13 @@ Data analytics and data science have been my focus and passion ever since.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/williamwnsong)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:canadasung@gmail.com)
 
-Too serious & too boring? Let's slack a bit and let agents do the work~
+Too serious & too boring? Let's slack a bit and have agents to do the work~
 <div align="left">
     <img src="assets/dog_type.gif" width="250">
     <img src="assets/cat_type.gif" width="330">
 </div>
 
-## Some of my hobbies
+## Some of my licenses and hobbies
 
 #### PADI Advanced Open Water Recreational Diver License
 <img src="assets/dive.jpg" width="300">
