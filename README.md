@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/giphy.gif">
+
 # Greetings! I’m William ~
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=quarto&logoColor=white)](https://canadasung.github.io/quarto-portfolio/)
@@ -60,6 +62,7 @@ The world of data science and AI is changing so fast that it sometimes feels cha
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
+---
 
 **Too serious & too boring? Let's slack a bit and have agents to do the work~**
 <div align="left">
@@ -70,6 +73,8 @@ The world of data science and AI is changing so fast that it sometimes feels cha
 </div>
 
 ## Some of my other licenses and hobbies
+
+[![my instagram](https://img.shields.io/badge/my%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/song.great.serenity)
 
 #### PADI Advanced Open Water Recreational Diver License
 <img src="assets/dive.jpg" width="300">
