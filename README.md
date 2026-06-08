@@ -76,5 +76,5 @@ Too serious & too boring? Let's slack a bit and have agents to do the work~
 #### Archery
 <img src="assets/archery.jpg" width="300">
 
-#### Scenary Seeing
+#### Sight-seeing
 <img src="assets/sights.jpg" width="300">
