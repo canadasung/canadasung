@@ -10,7 +10,7 @@
 
 </div>
 
-I’m a data analyst and scientist based in Vancouver, BC, but my path here wasn’t linear. 
+I’m a data analyst and data scientist based in Vancouver, BC, Canada, but my path here wasn’t linear. 
 
 I started out in retail and customer service, moved into marketing and product management, and realized I was consistently drawn to the analytical challenges behind every decision. 
 
